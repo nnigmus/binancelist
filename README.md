@@ -3,7 +3,8 @@
 **Binance Pair Coin List 2020
 
 With this list all coins of BTC and USDT pairs included.
-You can use on Tradingview list import or in diffrent projects.
+
+You can use on Tradingview import list feature or in diffrent projects.
 
 I will try to keep updated.
 
