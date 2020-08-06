@@ -1,6 +1,6 @@
 
 # binancelist
-<img src="./binance.png" raw=true style="margin-right: 10px;"/>
+
 
 Binance Pair Coin List 2020
 
@@ -11,3 +11,6 @@ buy me a cofee
 Btc address 3P8qhdawPEvTthosxNVXKynF2wnTuL8NoR
 
 Eth address 0x91789d65835f2915fc6c61f45a1f18bbb68ba4b1
+
+
+<img src="./binance.png" raw=true style="margin-right: 10px;"/>
