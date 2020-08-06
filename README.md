@@ -1,5 +1,6 @@
+
 # binancelist
-<img src=“https://github.com/nnigmus/binancelist/binance.png">
+<img src="./binance.png" raw=true style="margin-right: 10px;"/>
 
 Binance Pair Coin List 2020
 
